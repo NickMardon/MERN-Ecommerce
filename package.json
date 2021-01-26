@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN ECommerce App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node back-end/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickMardon/MERN-Ecommerce.git"
+  },
+  "author": "Nick Mardon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickMardon/MERN-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/NickMardon/MERN-Ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
